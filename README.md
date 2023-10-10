@@ -1,5 +1,5 @@
-# pytorch3d_iterative_closest_point
-Source code of Pytorch3D ICP
+# pytorch3d ICP
+Source code of Pytorch3D Iterative Closest Point
 
 # Motivation:
 I failed to compile the whole PyTorch3D but I only need ICP related functions. So I cropped out pieces of code from the original [PyTorch](https://github.com/facebookresearch/pytorch3d/tree/main/pytorch3d) repo.
